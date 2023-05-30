@@ -6,9 +6,9 @@ Google Sheets functions to get Brazillian Direct Treasure rates.
 - Open your Google Sheets document.
 - Using the top menu, go to Extensions > Apps Script.
 - In the `Code.gs` file, paste the `Code.gs` content from this repository.
-- It's done! Now, you can use the `=ImportDirectTreasureIpcaJSON()` and `=ImportDirectTreasurePreFixadoJSON()` functions in your sheets.
+- It's done! Now, you can use the available functions in your sheets.
 
-## Functions goals
+## Functions
 
 ### ImportDirectTreasureIpcaJSON()
 
