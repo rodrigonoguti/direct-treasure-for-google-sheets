@@ -1,4 +1,4 @@
-# direct-treasure-for-google-sheets
+# Brazillian Direct Treasure for Google Sheets
 Google Sheets functions to get Brazillian Direct Treasure rates.
 
 ## How to use
