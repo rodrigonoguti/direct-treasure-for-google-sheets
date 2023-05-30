@@ -1,5 +1,5 @@
-# Brazillian Direct Treasure for Google Sheets
-Google Sheets functions to get Brazillian Direct Treasure rates.
+# Brazilian Direct Treasure for Google Sheets
+Google Sheets functions to get Brazilian Direct Treasure rates.
 
 ## How to use
 
