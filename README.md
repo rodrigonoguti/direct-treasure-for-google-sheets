@@ -13,7 +13,9 @@ Google Sheets functions to get Brazillian Direct Treasure rates.
 ### ImportDirectTreasureIpcaJSON()
 
 - Get the rate of the latest Tesouro Direto IPCA+.
+- `=ImportDirectTreasureIpcaJSON()`
 
 ### ImportDirectTreasurePreFixadoJSON()
 
 - Get the rate of the latest Tesouro Direto Pré-Fixado.
+- `=ImportDirectTreasurePreFixadoJSON()`
